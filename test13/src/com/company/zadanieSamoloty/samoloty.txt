@@ -1,0 +1,3 @@
+Boeing;blue;765;ładuje duuużo ludzi
+Airbus;red;765;ładuje duuużo ludzi
+Bombardier;green;450;ładuje mniej ludzi

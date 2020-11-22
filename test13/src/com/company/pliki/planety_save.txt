@@ -1,0 +1,8 @@
+Planet{name='Merkury ', weight=' 3,3011×10^23 kg ', distanceToSun=' 0,387 au'}
+Planet{name='Wenus ', weight=' 4,8685×10^24 ', distanceToSun=' 0,723 au'}
+Planet{name='Ziemia ', weight=' 5,97219×10^24 kg ', distanceToSun=' 1,0 au'}
+Planet{name='Mars ', weight=' 6,4185×10^23 kg ', distanceToSun=' 1,524 au'}
+Planet{name='Jowisz ', weight=' 1,8986×10^27 kg ', distanceToSun=' 5,203 au'}
+Planet{name='Saturn ', weight=' 5,6846×10^26 kg ', distanceToSun=' 9,537 au'}
+Planet{name='Uran ', weight=' 8,6816×10^25 kg ', distanceToSun=' 19,191 au'}
+Planet{name='Neptun ', weight=' 1,02413×10^26 kg ', distanceToSun=' 30,047 au'}
